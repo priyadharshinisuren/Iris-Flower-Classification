@@ -56,3 +56,17 @@ Challenges and Future Work: The project encountered challenges related to featur
 Practical Application: The Iris flower classification model can be applied in real-world scenarios, such as botany and horticulture, to automate the identification of Iris species based on physical characteristics.
 
 In conclusion, the Iris flower classification project successfully employed Random Forest (tuned) as the final prediction model to classify Iris species. The project's outcomes have practical implications in the field of botany and offer valuable insights into feature importance for species differentiation. Further refinements and enhancements may lead to even more accurate and reliable classification models in the future.
+details:
+<img width="550" height="733" alt="Screenshot 2026-05-05 132252" src="https://github.com/user-attachments/assets/59de61b0-027b-47d5-b8f3-cb75d78c122d" />
+<img width="931" height="733" alt="Screenshot 2026-05-05 132307" src="https://github.com/user-attachments/assets/50030273-3624-411a-8f43-240c11418469" />
+<img width="314" height="179" alt="Screenshot 2026-05-05 132320" src="https://github.com/user-attachments/assets/c6004390-c8db-469d-a16d-b89902aa983d" />
+<img width="965" height="720" alt="Screenshot 2026-05-05 132433" src="https://github.com/user-attachments/assets/7cf9f992-4eb0-40b5-8995-ef56fb3b03e3" />
+<img width="891" height="621" alt="Screenshot 2026-05-05 132648" src="https://github.com/user-attachments/assets/ec46f8f9-1b9c-496d-afcb-ca912cd1fbd1" />
+<img width="930" height="350" alt="Screenshot 2026-05-05 132656" src="https://github.com/user-attachments/assets/256097ff-da3c-47ac-9126-309589c5cc83" />
+<img width="935" height="701" alt="Screenshot 2026-05-05 132721" src="https://github.com/user-attachments/assets/223b16ed-5c4a-400a-b6b9-f0475c19d6bb" />
+<img width="933" height="328" alt="Screenshot 2026-05-05 132731" src="https://github.com/user-attachments/assets/3e11aa83-eed0-49b6-9059-4f895c1c5f7c" />
+
+
+
+
+
